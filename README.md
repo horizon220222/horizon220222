@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here are some quick things about me:
+
 - 🌱 我正在学习云原生
 - 🤔 我要学习英语
 
