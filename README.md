@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 Here are some quick things about me:
 
-- 云原生
-- 学习ai
-- 学习游戏
+- 🔭 云原生
+- 🌱 学习ai
+- 🤔 学习游戏
+- 📫 学习英语
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=horizon220222&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=horizon220222)
