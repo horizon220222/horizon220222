@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Here are some quick things about me:
 
-- 😄 单片机 30%
+- 😄 单片机 40%
 - 🔭 云原生 80%
 - 🌱 学习ai 10%
-- 🤔 学习游戏 50%
+- 🤔 学习游戏 55%
 - 📫 学习英语 10%
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=horizon220222&theme=github)
