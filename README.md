@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Here are some quick things about me:
 
-- 😄 单片机 40%
+- 😄 单片机 60% 焊接板子中
 - 🔭 云原生 80%
 - 🌱 学习ai 10%
 - 🤔 学习游戏 55%
