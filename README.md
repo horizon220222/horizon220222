@@ -23,7 +23,7 @@ Here are some quick things about me:
 - 🤔 学习游戏 55%
 - 📫 学习英语 10%
 
-从我的项目能看出，爱好编程，熟练掌握多种编程语言
+从我的项目能看出，爱好编程，熟练掌握多种编程语言,主语言是Go、Python
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=horizon220222&theme=github)
 <!--
